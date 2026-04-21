@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+#about img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+ul {
+    list-style: none;
+}
+
+.project {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
